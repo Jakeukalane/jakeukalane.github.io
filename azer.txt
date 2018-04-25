@@ -1,0 +1,52 @@
+AZER
+FREQUENCY: Very rare (common)
+NO. APPEARING: 1-4 (3-30)
+ARMOR CLASS: 2
+MOVE: 12"
+HIT DICE: 2+1 to 5+4
+% IN LAIR: Nil (20%)
+TREASURE TYPE: Nil (individuals Q[¿?]; tripled in lair)
+NO. OF ATTACKS: 1
+DAMAGE /ATTACK: By weapon type.
+SPECIAL ATTACKS: Heat (see below)
+SPECIAL DEFENSES: Immune to fire.
+MAGIC RESISTANCE: 5-20% (by size)
+INTELLIGENCE: Low to very.
+ALIGNMENT: Lawful neutral
+SIZE: M (4 1 /2' - 5' tall)
+PSIONIC ABILITY: Nil 
+	Attack/Defense Modes:
+		Nil/nil
+LEVEL/X.P VALUE:
+2+1 HD = II  / 40+3/hp
+3+2 HD = III / 85+4/hp
+4+3 HD = III / 130+5/hp
+5+4 HD = IV  / 225+6/hp
+
+(Parenthetical references are to the Elemental Plane of Fire)
+
+The azer are a race of humanoid creatures inhabiting the Elemental Plane Of Fire. (Their ruler, Amaimon, is detailed below) They are common on their own plane but never seen elsewhere unless brought by summoning. They appear much like dwarves with brass-colored skin and flames for hair. Their skin is metallic, wich accounts for their high armor class. They wear only kilts or apron-like garments of beaten brass, copper, or bronze. Common azer are the weakest (encountered 90% of the time), while those with 3+2 hit dice are the next most common (30%). The larger azer are less likely (20%) and the strongest 5+4 dice) the least likely to be encountered 10%) . The weaker will carry less valuable gems than the stronger (base values 10 gp, 50 gp, 100 gp, and 500 gp, respectively) Azer use broad-bladed javelins which inflict damage equal to a spear. In hand-to-hand- combat they employ mallet-like weapons equal to a footman's mace in all respects. Due to their strenght, hit probability is always adujusted, as is damage as follows:
+
+hit dice	strenght 		bonus to hit 	bonus to damage
+2+1 		17				+1		 		+1
+3+2			18				+1				+2
+4+3			18/01-50		+1				+3
+5+4			18/51-75		+2				+3
+
+Creatures not immune to fire will take 2-5 points of damage from being grasped by any azer, and the heat of an azer's weapons will inflict damage of +1 to such opponents. However, azer cannot survive in temperatures below 200 degrees F for more than an hour or so. Cold attacks inflict double normal damage against them.
+
+
+Amaimon: Amaimon is the legendary king of the azer. He is the largest (9+8 hit dice), strongest 18/00 for +3/+6), and most intelligent of all his kind. His nobles number from 8-32, being only slightly less superior (7+6 hit dice, 18/76-90 for +2/+4). Amaimon has 35% magic resistance, noble azers have 25%. The other powers of these creatures are currently unknown.
+
+The people of Amaimon dwell in small groups, their typical abode being a tower worked from the antural basalt of their realm, using the plentiful supply of flame nearby. When 20 or more are encountered in their habitation, there will be 2 of the largest normal size, a noble, and 40-70 non-combatant females and young there also. It is likely that the defenses of the place will include air projectors (bellows-like devices) and even special containers to haul water and pour it upon attackers.
+
+In general, azer are unfriendly, taciturn, and lack compassion. They are greedy, and for clear purple or red gems the may agree to reasonable requests. Once given, the word of an azer is a solid bond.
+
+
+
+Elemental, Fire Kin, Azer 2HD
+The azer are a race of humanoid creatures that normally inhabit the Elemental Plane of Fire. Except under special circumstances, they are very rarely found on the Prime Material Plane.
+
+In appearance thay are much like dwarves, except that they have metallic, brass-colored skin and flames for hair. They wear only kilts or apronlike garments of beaten brass, copper, or bronze.
+
+ Band#Any	Omnivores#11-12  Very intelligent
