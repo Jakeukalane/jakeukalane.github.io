@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sigue un enlace al azar</title>
+</head>
+<body>
+    <button onclick="followRandomURL(event);">
+        Voy a tener suerte
+    </button>
+
+
+    <script src="./listado-urls.js"></script>
+
+    <script>
+        function followRandomURL(event){
+            event.preventDefault();
+            document.location.href = window.hipogrifoAPI.getRandomUrl();
+        }
+    </script>
+</body>
+</html>
