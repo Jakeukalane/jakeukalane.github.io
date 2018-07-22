@@ -3,31 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Sigue un enlace al azar</title>
-    <style>
-        .oculto {
-            display: none;
-        }
-
-    </style>
 </head>
 <body>
-<span id="loadingBanner">Cargando, por favor, espere...</span>
-
-<form id="urlForm" method="get">
-    <button id="loadRandomUrlButton" class="oculto" onclick="followRandomURL();">
+    <button onclick="followRandomURL();">
         Voy a tener suerte
     </button>
-</form>
 
-<script src="./listado-urls.js"></script>
 
-<script>
-    document.addEventListener("DOMContentLoaded", function (event) {
-        document.getElementById('urlForm').setAttribute('action', window.hipogrifoAPI.getRandomUrl());
+    <script src="./listado-urls.js"></script>
 
-        document.getElementById('loadRandomUrlButton').className.replace(/\boculto\b/g, "");
-        document.getElementById('loadingBanner').setAttribute('class', 'oculto');
-    });
-</script>
+    <script>
+        function followRandomURL(event){
+            event.preventDefault();
+            document.location.href = window.hipogrifoAPI.getRandomUrl();
+        }
+    </script>
 </body>
 </html>
