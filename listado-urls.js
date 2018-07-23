@@ -707,6 +707,7 @@
         'http://tuscriaturas.blogia.com/2006/081122-naa-ke-suu-se-ner-te.php',
         'http://tuscriaturas.blogia.com/2006/081121-dniz-su-la-llama-azul.php',
         'http://tuscriaturas.blogia.com/2006/081120-los-brafnu.php',
+        'https://jakeukalane.github.io/los-basiliscos-dnd.html',
         'http://tuscriaturas.blogia.com/2006/081119-los-basiliscosaurios.php',
         'https://jakeukalane.github.io/los-basiliscos-dnd.html',
         'http://tuscriaturas.blogia.com/2006/081118-huecuvu.php',
