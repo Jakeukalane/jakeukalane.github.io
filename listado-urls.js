@@ -371,7 +371,6 @@
         'http://tuscriaturas.blogia.com/2010/042801-los-robots-de-ikk.php',
         'http://tuscriaturas.blogia.com/2010/042601-segundo-hijo.php',
         'http://tuscriaturas.blogia.com/2010/042201-ya-queda-menos.php',
-        'http://tuscriaturas.blogia.com/2010/041601-emblema-de-la-pagina.php',
         'http://tuscriaturas.blogia.com/2010/041101-jormundgander.php',
         'http://tuscriaturas.blogia.com/2010/040101-mes-artistico-ii.php',
         'http://tuscriaturas.blogia.com/2010/033101-sobre-las-pesadillas.php',
