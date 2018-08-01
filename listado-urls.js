@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/080101-neftis.php',
         'http://tuscriaturas.blogia.com/2018/071901-sxylathonannq.php',
         'http://tuscriaturas.blogia.com/2018/070701-las-leucrocotta.php',
         'http://tuscriaturas.blogia.com/2018/062601-aniversario-de-los-14-anos-del-bestiario-del-hypogripho-dorado.php',
