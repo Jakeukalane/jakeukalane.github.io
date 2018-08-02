@@ -674,7 +674,7 @@
         'https://tuscriaturas.blogia.com/2006/082104-los-ne-ekkran.php',
         'https://tuscriaturas.blogia.com/2006/082103-los-infinitos-mundos-paralelos.php',
         'https://tuscriaturas.blogia.com/2006/082102-los-cinitos-de-la-medianoche.php',
-        'https://tuscriaturas.blogia.com/2006/082101-nephthys.php',
+        'https://tuscriaturas.blogia.com/2006/082101-neftis-de-duss.php',
         'https://tuscriaturas.blogia.com/2006/082010-los-dussianos-recopilatorio-.php',
         'https://tuscriaturas.blogia.com/2006/082009-los-cinitos-del-amanecer.php',
         'https://tuscriaturas.blogia.com/2006/082008-los-dragones-de-poniente.php',
