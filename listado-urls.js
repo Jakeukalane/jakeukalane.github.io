@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'https://tuscriaturas.blogia.com/2018/080601-sobre-dragones-y-caballeros.php',
         'https://tuscriaturas.blogia.com/2018/080101-neftis.php',
         'https://tuscriaturas.blogia.com/2018/071901-sxylathonannq.php',
         'https://tuscriaturas.blogia.com/2018/070701-las-leucrocotta.php',
