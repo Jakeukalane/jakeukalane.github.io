@@ -757,7 +757,7 @@
         'https://tuscriaturas.blogia.com/2006/080621-los-resucitados-por-los-otros.php',
         'https://tuscriaturas.blogia.com/2006/080620-las-bestias-salvajes-arrojafuego.php',
         'https://tuscriaturas.blogia.com/2006/080619-los-niumvlanartha.php',
-        'https://tuscriaturas.blogia.com/2006/080618-los-usilvos.php',
+        'https://tuscriaturas.blogia.com/2006/080618-los-pusilvos.php',
         'https://tuscriaturas.blogia.com/2006/080617-los-wqessi.php',
         'https://tuscriaturas.blogia.com/2006/080616-la-tierra-de-valinor-124-taniquetil.php',
         'https://tuscriaturas.blogia.com/2006/080615-nai-no-seri.php',
