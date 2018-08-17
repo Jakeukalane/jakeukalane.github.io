@@ -418,7 +418,7 @@
         'https://tuscriaturas.blogia.com/2008/072109-los-que-traen-de-vuelta-la-luz.php',
         'https://tuscriaturas.blogia.com/2008/072108-los-roc.php',
         'https://tuscriaturas.blogia.com/2008/072107-los-celestes.php',
-        'https://tuscriaturas.blogia.com/2008/072106-ancestros-de-los-unicornios.php',
+        'https://tuscriaturas.blogia.com/2008/072106-los-ancestros-de-los-unicornios.php',
         'https://tuscriaturas.blogia.com/2008/072104-los-arcos-del-mundo.php',
         'https://tuscriaturas.blogia.com/2008/072103-los-unicornios-del-agua.php',
         'https://tuscriaturas.blogia.com/2008/072102-los-unicornios-de-idhun.php',
