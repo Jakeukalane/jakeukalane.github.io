@@ -1,5 +1,7 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/082401-naves-patrulla-dussianas-de-observacion.php',
+        'http://tuscriaturas.blogia.com/2018/081901-los-planos-fractales-ix-las-estructuras-fractales-unicas.php',
         'https://tuscriaturas.blogia.com/2018/081301-los-nundu.php',
         'https://tuscriaturas.blogia.com/2018/080601-sobre-dragones-y-caballeros.php',
         'https://tuscriaturas.blogia.com/2018/080101-neftis.php',
