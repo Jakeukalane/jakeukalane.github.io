@@ -1,5 +1,9 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/092501-los-owonumo.php',
+        'http://tuscriaturas.blogia.com/2018/091701-el-planeta-gemraid-i-la-caida-de-oth-rendor.php',
+        'http://tuscriaturas.blogia.com/2018/091001-las-ventanas-de-contenido.php',
+        'http://tuscriaturas.blogia.com/2018/090401-ellos-solo-quieren....php',
         'https://tuscriaturas.blogia.com/2018/083101-los-reflejos-interplanares.php',
         'https://tuscriaturas.blogia.com/2018/082701-los-damork.php',
         'https://tuscriaturas.blogia.com/2018/082401-naves-patrulla-dussianas-de-observacion.php',
