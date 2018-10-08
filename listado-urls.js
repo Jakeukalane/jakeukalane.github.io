@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/100801-miedo-a-las-paginas-en-blanco.php',
         'http://tuscriaturas.blogia.com/2018/092901-los-buscadores.php',
         'http://tuscriaturas.blogia.com/2018/092501-los-owonumo.php',
         'http://tuscriaturas.blogia.com/2018/091701-el-planeta-gemraid-i-la-caida-de-oth-rendor.php',
