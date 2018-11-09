@@ -1,5 +1,9 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/110501-el-planeta-o-shyhon-iii-la-primera-gran-guerra.php',
+        'http://tuscriaturas.blogia.com/2018/102901-los-senores-de-la-consciencia.php',
+        'http://tuscriaturas.blogia.com/2018/102201-los-linajes-de-gem-nahuierahs-de-eimeraik.php',
+        'http://tuscriaturas.blogia.com/2018/101501-el-planeta-gemra.php',
         'http://tuscriaturas.blogia.com/2018/100801-miedo-a-las-paginas-en-blanco.php',
         'http://tuscriaturas.blogia.com/2018/092901-los-buscadores.php',
         'http://tuscriaturas.blogia.com/2018/092501-los-owonumo.php',
