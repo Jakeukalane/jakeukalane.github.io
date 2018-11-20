@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/112001-los-terrorgrifos.php',
         'http://tuscriaturas.blogia.com/2018/111201-como-invitar-al-yeti-a-un-cacao.php',
         'http://tuscriaturas.blogia.com/2018/110501-el-planeta-o-shyhon-iii-la-primera-gran-guerra.php',
         'http://tuscriaturas.blogia.com/2018/102901-los-senores-de-la-consciencia.php',
