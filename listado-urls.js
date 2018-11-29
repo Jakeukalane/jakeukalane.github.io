@@ -721,7 +721,7 @@
         'https://tuscriaturas.blogia.com/2006/081127-las-mariposas-de-magia.php',
         'https://tuscriaturas.blogia.com/2006/081126-las-hechiceras-del-anochecer.php',
         'https://tuscriaturas.blogia.com/2006/081125-las-ciudadelas-de-pryan-y-el-nexo.php',
-        'https://tuscriaturas.blogia.com/2006/081124-los-fenix-orientales.php',
+        'https://tuscriaturas.blogia.com/2006/081124-los-fenghuang.php',
         'https://tuscriaturas.blogia.com/2006/081122-naa-ke-suu-se-ner-te.php',
         'https://tuscriaturas.blogia.com/2006/081121-dniz-su-la-llama-azul.php',
         'https://tuscriaturas.blogia.com/2006/081120-los-brafnu.php',
