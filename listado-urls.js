@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2018/121701-el-sistema-estelar-de-ul.php',
         'http://tuscriaturas.blogia.com/2018/121001-el-ascenso-de-los-escarabajos.php',
         'http://tuscriaturas.blogia.com/2018/120301-los-colibries-electricos.php',
         'http://tuscriaturas.blogia.com/2018/112601-el-plegamiento-del-espacio-las-plegaduras-y-los-planetas-plegados.php',
