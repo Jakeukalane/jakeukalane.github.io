@@ -749,7 +749,7 @@
         'https://tuscriaturas.blogia.com/2006/080606-los-may-nanur.php',
         'https://tuscriaturas.blogia.com/2006/080605-los-tryder.php',
         'https://tuscriaturas.blogia.com/2006/080604-los-planhte.php',
-        'https://tuscriaturas.blogia.com/2006/080603-las-serpientes-dragon.php',
+        'http://tuscriaturas.blogia.com/2006/080603-los-emperadores-de-jmwur.php',
         'https://tuscriaturas.blogia.com/2006/080602-las-hydras-de-batalla.php',
         'https://tuscriaturas.blogia.com/2006/080601-los-espectros-del-anillo.php',
         'https://tuscriaturas.blogia.com/2006/080506-el-mu-hu-u.php',
