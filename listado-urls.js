@@ -355,7 +355,7 @@
         'https://tuscriaturas.blogia.com/2010/042803-el-cuarto-hijo.php',
         'https://tuscriaturas.blogia.com/2010/042802-el-tercer-hijo.php',
         'https://tuscriaturas.blogia.com/2010/042801-los-robots-de-ikk.php',
-        'https://tuscriaturas.blogia.com/2010/042601-segundo-hijo.php',
+        'https://tuscriaturas.blogia.com/2010/042601-el-segundo-hijo.php',
         'https://tuscriaturas.blogia.com/2010/042201-ya-queda-menos.php',
         'https://tuscriaturas.blogia.com/2010/041101-jormundgander.php',
         'https://tuscriaturas.blogia.com/2010/040101-mes-artistico-ii.php',
