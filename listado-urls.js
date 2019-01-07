@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/010701-aventuras-en-egipto.php',
         'https://tuscriaturas.blogia.com/2018/123101-krynn.php',
         'https://tuscriaturas.blogia.com/2018/122401-los-leucrotta-de-ul.php',
         'https://tuscriaturas.blogia.com/2018/121701-el-sistema-estelar-de-ul.php',
