@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'https://tuscriaturas.blogia.com/2019/012201-las-quimeras-metamorficas.php',
         'https://tuscriaturas.blogia.com/2019/011401-la-ley-de-las-probabilidades-acumuladas.php',
         'https://tuscriaturas.blogia.com/2019/010701-aventuras-en-egipto.php',
         'https://tuscriaturas.blogia.com/2018/123101-krynn.php',
