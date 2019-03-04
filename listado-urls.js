@@ -1,7 +1,8 @@
 (function (window){
     var urls = [
-        'http://tuscriaturas.blogia.com/2019/022501-los-dragones-de-azogue-de-ariano.php',
-        'http://tuscriaturas.blogia.com/2019/021801-los-mundos-fragmentados-abstractos.php',
+        'https://tuscriaturas.blogia.com/2019/030401-los-blopury.php',
+        'https://tuscriaturas.blogia.com/2019/022501-los-dragones-de-azogue-de-ariano.php',
+        'https://tuscriaturas.blogia.com/2019/021801-los-mundos-fragmentados-abstractos.php',
         'https://tuscriaturas.blogia.com/2019/021101-los-devoradores.php',
         'https://tuscriaturas.blogia.com/2019/020401-las-singularidades-del-milegu.php',
         'https://tuscriaturas.blogia.com/2019/012801-las-proyecciones-de-aspecto.php',
