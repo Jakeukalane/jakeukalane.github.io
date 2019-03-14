@@ -1,5 +1,7 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/031401-las-infiniesencias.php',
+        'https://tuscriaturas.blogia.com/2019/031101-luagr-i.php',
         'https://tuscriaturas.blogia.com/2019/030401-los-blopury.php',
         'https://tuscriaturas.blogia.com/2019/022501-los-dragones-de-azogue-de-ariano.php',
         'https://tuscriaturas.blogia.com/2019/021801-los-mundos-fragmentados-abstractos.php',
