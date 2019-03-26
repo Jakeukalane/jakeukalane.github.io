@@ -1,6 +1,7 @@
 (function (window){
     var urls = [
-        'https://tuscriaturas.blogia.com/2019/032101-las-pesadillas-de-sangre.php'
+        'http://tuscriaturas.blogia.com/2019/032501-el-palacio-de-hielo.php',
+        'https://tuscriaturas.blogia.com/2019/032101-las-pesadillas-de-sangre.php',
         'https://tuscriaturas.blogia.com/2019/031801-el-equilibrio-nys-aw-oeb-la-positividad-y-la-negatividad.php',
         'https://tuscriaturas.blogia.com/2019/031401-las-infiniesencias.php',
         'https://tuscriaturas.blogia.com/2019/031101-luagr-i.php',
