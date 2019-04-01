@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/040101-los-grangos.php',
         'http://tuscriaturas.blogia.com/2019/032801-los-dequakim.php',
         'http://tuscriaturas.blogia.com/2019/032501-el-palacio-de-hielo.php',
         'http://tuscriaturas.blogia.com/2019/032101-las-pesadillas-de-sangre.php',
