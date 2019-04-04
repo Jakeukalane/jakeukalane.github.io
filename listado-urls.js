@@ -58,6 +58,7 @@
         'http://tuscriaturas.blogia.com/2018/042101-lyndon.php',
         'http://tuscriaturas.blogia.com/2018/041201-expedicion-nocturna.php',
         'http://tuscriaturas.blogia.com/2018/040701-khloris.php',
+        'http://tuscriaturas.blogia.com/2018/032801-los-yatagarasu-del-milegu.php',
         'http://tuscriaturas.blogia.com/2018/032201-los-kelpies-del-milegu.php',
         'http://tuscriaturas.blogia.com/2018/031101-los-planos-fractales-viii-otras-estructuras-fractales.php',
         'http://tuscriaturas.blogia.com/2018/030601-mejor-quedarse-dentro.php',
