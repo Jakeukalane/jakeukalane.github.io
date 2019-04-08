@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/040801-los-diarios-de-un-maauyoyq-jakeukalane.-parte-ii.php',
         'http://tuscriaturas.blogia.com/2019/040401-las-fronteras-rielantes.php',
         'http://tuscriaturas.blogia.com/2019/040101-los-grangos.php',
         'http://tuscriaturas.blogia.com/2019/032801-los-dequakim.php',
