@@ -1,5 +1,7 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/042201-el-planeta-apeiron.php',
+        'http://tuscriaturas.blogia.com/2019/041801-los-xipehuz.php',
         'http://tuscriaturas.blogia.com/2019/041501-yelhveus-el-devorador.php',
         'http://tuscriaturas.blogia.com/2019/041101-la-gradacion-de-universos-segun-la-velocidad-de-la-luz.php',
         'http://tuscriaturas.blogia.com/2019/040801-los-diarios-de-un-maauyoyq-jakeukalane.-parte-ii.php',
