@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/042501-los-anales-de-las-criaturas-absurdas.php',
         'http://tuscriaturas.blogia.com/2019/042201-el-planeta-apeiron.php',
         'http://tuscriaturas.blogia.com/2019/041801-los-xipehuz.php',
         'http://tuscriaturas.blogia.com/2019/041501-yelhveus-el-devorador.php',
