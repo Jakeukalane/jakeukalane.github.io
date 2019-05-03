@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/050201-los-tesoros-interplanares.php',
         'http://tuscriaturas.blogia.com/2019/042901-las-distorsiones-alfa.php',
         'http://tuscriaturas.blogia.com/2019/042501-los-anales-de-las-criaturas-absurdas.php',
         'http://tuscriaturas.blogia.com/2019/042201-el-planeta-apeiron.php',
@@ -585,7 +586,7 @@
         'http://tuscriaturas.blogia.com/2007/010603-los-sheks-ciclopes.php',
         'http://tuscriaturas.blogia.com/2007/010602-los-malto.php',
         'http://tuscriaturas.blogia.com/2007/010601-los-caballeros-del-mal-de-tyuratam.php',
-        'http://tuscriaturas.blogia.com/2007/010204-los-aufstieg.php',
+        'http://tuscriaturas.blogia.com/2007/010204-las-aufstieg.php',
         'http://tuscriaturas.blogia.com/2007/010203-los-nebelynv.php',
         'http://tuscriaturas.blogia.com/2007/010202-los-chasch.php',
         'http://tuscriaturas.blogia.com/2007/010201-los-wankh.php',
