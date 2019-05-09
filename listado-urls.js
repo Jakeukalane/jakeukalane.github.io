@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/050901-los-bji.php',
         'http://tuscriaturas.blogia.com/2019/050601-los-elementales-de-rage-nath.php',
         'http://tuscriaturas.blogia.com/2019/050201-los-tesoros-interplanares.php',
         'http://tuscriaturas.blogia.com/2019/042901-las-distorsiones-alfa.php',
