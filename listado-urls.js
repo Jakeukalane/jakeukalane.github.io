@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/051301-los-senores-del-karma-de-qenal.php',
         'http://tuscriaturas.blogia.com/2019/050901-los-bji.php',
         'http://tuscriaturas.blogia.com/2019/050601-los-elementales-de-rage-nath.php',
         'http://tuscriaturas.blogia.com/2019/050201-los-tesoros-interplanares.php',
