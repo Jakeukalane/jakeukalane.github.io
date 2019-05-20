@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/052001-la-ultramateria-y-la-yltramateria.php',
         'http://tuscriaturas.blogia.com/2019/051601-umaggar-lo-semifinito.php',
         'http://tuscriaturas.blogia.com/2019/051301-los-senores-del-karma-de-qenal.php',
         'http://tuscriaturas.blogia.com/2019/050901-los-bji.php',
