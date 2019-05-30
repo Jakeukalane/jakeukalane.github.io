@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/053001-los-cangrejos-gigantes-de-echlye.php',
         'http://tuscriaturas.blogia.com/2019/052701-los-flujos-de-universos.php',
         'http://tuscriaturas.blogia.com/2019/052301-los-planos-inferiores.php',
         'http://tuscriaturas.blogia.com/2019/052001-la-ultramateria-y-la-yltramateria.php',
