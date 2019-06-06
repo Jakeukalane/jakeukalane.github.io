@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/060601-los-entes-del-futuro.php',
         'http://tuscriaturas.blogia.com/2019/060301-los-subespacios-de-zzsh.php',
         'http://tuscriaturas.blogia.com/2019/053001-los-cangrejos-gigantes-de-echlye.php',
         'http://tuscriaturas.blogia.com/2019/052701-los-flujos-de-universos.php',
