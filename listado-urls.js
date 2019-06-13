@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/061301-las-espirales-de-la-no-desconexion.php',
         'http://tuscriaturas.blogia.com/2019/061001-conversaciones-sobre-una-especie-perdida.php',
         'http://tuscriaturas.blogia.com/2019/060601-los-entes-del-futuro.php',
         'http://tuscriaturas.blogia.com/2019/060301-los-subespacios-de-zzsh.php',
