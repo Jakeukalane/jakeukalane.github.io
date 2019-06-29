@@ -538,7 +538,7 @@
         'http://tuscriaturas.blogia.com/2007/083101-los-demonyias-de-fuego.php',
         'http://tuscriaturas.blogia.com/2007/082001-los-yale.php',
         'http://tuscriaturas.blogia.com/2007/080802-la-teoria-de-las-paradojas.php',
-        'http://tuscriaturas.blogia.com/2007/080801-las-paradojas-de-la-forma-a-e-945-.php',
+        'http://tuscriaturas.blogia.com/2007/080801-las-paradojas-de-la-forma-a-8315-e-8314-945-.php',
         'http://tuscriaturas.blogia.com/2007/073101-los-dragones-solares.php',
         'http://tuscriaturas.blogia.com/2007/072701-los-sensitivos.php',
         'http://tuscriaturas.blogia.com/2007/072002-los-serineq.php',
