@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/070101-anos-y-estaciones-en-mundos-planos.php',
         'http://tuscriaturas.blogia.com/2019/062601-aniversario-de-los-15-anos-del-bestiario-del-hypogripho-dorado.php',
         'http://tuscriaturas.blogia.com/2019/062401-los-dragones-de-plata-de-drakkal.php',
         'http://tuscriaturas.blogia.com/2019/062001-las-abejas-astrales.php',
