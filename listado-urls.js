@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/070801-los-elfos-guerreros-mawi.php',
         'http://tuscriaturas.blogia.com/2019/070401-el-cristal.php',
         'http://tuscriaturas.blogia.com/2019/070101-anos-y-estaciones-en-mundos-planos.php',
         'http://tuscriaturas.blogia.com/2019/062601-aniversario-de-los-15-anos-del-bestiario-del-hypogripho-dorado.php',
