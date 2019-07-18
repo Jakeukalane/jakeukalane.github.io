@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/071801-la-marana-de-dimensiones.php',
         'http://tuscriaturas.blogia.com/2019/071501-los-wgoeras.php',
         'http://tuscriaturas.blogia.com/2019/071101-los-campos-de-la-fragmentacion.php',
         'http://tuscriaturas.blogia.com/2019/070801-los-elfos-guerreros-mawi.php',
