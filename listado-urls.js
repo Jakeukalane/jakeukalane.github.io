@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/072501-los-doce-fenix-del-tiempo.php',
         'http://tuscriaturas.blogia.com/2019/072201-el-saiens-el-coiens-y-el-adsust.php',
         'http://tuscriaturas.blogia.com/2019/071801-la-marana-de-dimensiones.php',
         'http://tuscriaturas.blogia.com/2019/071501-los-wgoeras.php',
