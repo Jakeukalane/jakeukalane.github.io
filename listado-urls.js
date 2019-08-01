@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/080101-los-espinosos-de-agua-de-mictlan.php',
         'http://tuscriaturas.blogia.com/2019/072901-la-eternidad-blanca.php',
         'http://tuscriaturas.blogia.com/2019/072501-los-doce-fenix-del-tiempo.php',
         'http://tuscriaturas.blogia.com/2019/072201-el-saiens-el-coiens-y-el-adsust.php',
