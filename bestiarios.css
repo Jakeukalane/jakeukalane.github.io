@@ -1,0 +1,489 @@
+body {
+	font-family : Verdana, Arial, Geneva, Helvetica, sans-serif;
+	background="https://jakeukalane.github.io/bg2.gif";
+	color: #000000;
+	margin: 0px auto;
+	margin-top: 15px;
+	width: 800px;
+}
+
+a:link {
+	color : #0000ff;
+	text-decoration : none;
+}
+
+a:visited {
+	color : #0000ff;
+	text-decoration : none;
+}
+
+a:active {
+	text-decoration : none;
+	color : #ff0000;
+}
+
+a:hover {
+	text-decoration : none;
+	color : #ff0000;
+}
+
+ul {
+	list-style-type : none;
+	margin-left : 0px;
+	line-height : 120%;
+}
+
+li {
+	list-style-type : none;
+	margin-left : 0px;
+	line-height : 120%;
+}
+
+dt {
+	font-weight: bold;
+	}
+
+br {
+	font-size : 7px;
+}
+
+p {
+	margin-bottom : -8px;
+}
+
+.PageTitle {
+	font-size : 24px;
+	font-weight : bold;
+}
+
+.PageTitleSmall {
+	font-size : 18px;
+	font-weight : bold;
+}
+
+.SectionTitle {
+	font-size : 16px;
+	font-weight : bold;
+}
+
+.TableEdge {
+	background-color : #003333;
+	font-size : 15px;
+	font-weight : bold;
+	color : White;
+}
+
+.NoteText {
+	font-size : 14px;
+}
+
+.NoteTextBold {
+	font-size : 14px;
+	font-weight : bold;
+}
+
+.NoteTextList {
+	font-size : 14px;
+	line-height: 14px;
+}
+
+.NoteTextSmall {
+	font-size : 12px;
+}
+
+.NoteList {
+	font-size : 14px;
+	margin: 0px 0px 2px 28px;
+}
+
+.NoteIndent {
+	font-size : 14px;
+	margin: 8px auto 2px 28px;
+}
+
+.NoteIndentSel {
+	font-size : 14px;
+	margin: 8px auto 2px 28px;
+	background-color: #FFFFCC;
+}
+
+.ArticleTextNormal {
+	font-size : 16px;
+}
+
+.ArticleTextSuperscript {
+	font-size : 12px;
+	vertical-align: text-top;
+}
+
+.IntroText {
+	font-size : 16px;
+}
+
+.SectionLetterBig {
+	font-size : 24px;
+	font-weight : bold;
+}
+
+.SectionLetter {
+	font-size : 14px;
+}
+
+.SectionLetter a:visited {
+	color : Blue;
+	font-size : 14px;
+}
+
+.IndexLetter {
+	font-size : 20px;
+	font-weight : bold;
+	color : #003333;
+}
+
+.IndexText {
+	font-size :16px;
+}
+
+.AuthorText {
+	font-size :14px;
+}
+
+.AuthorTextBold {
+	font-size :14px;
+	font-weight : bold;
+}
+
+.TitleText {
+	font-size :14px;
+	font-style: italic;
+}
+
+.TitleTextBold {
+	font-size :14px;
+	font-style: italic;
+	font-weight : bold;
+}
+
+.RefText {
+	font-size :14px;
+}
+
+.TinyText {
+	font-size :6px;
+}
+
+.LittleText {
+	font-size :10px;
+}
+
+.CaptionText {
+	font-size :11px;
+}
+
+.PanelText {
+	background-color : #003333;
+	font-size : 15px;
+	font-weight : bold;
+	color : White;
+	border-right : 1px solid White;
+}
+
+.CurPanelText {
+	background-color : #006666;
+	font-size : 15px;
+	font-weight : bold;
+	color : White;
+	border-right : 1px solid White;
+}
+
+.PanelTextDisable {
+	background-color : #003333;
+	font-size : 15px;
+	color : #005E60;
+	border-right : 1px solid White;
+}
+
+.PanelText a:link {
+	color : White;
+	text-decoration : none;
+}
+
+.PanelText a:visited {
+	color : White;
+	text-decoration : none;
+}
+
+.PanelText a:active {
+	color : White;
+}
+
+.PanelText a:hover {
+	text-decoration : none;
+	color : Red;
+}
+
+.GreekText {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.BorderImg {
+	border: 1px solid Black;
+}
+
+.BorderCell {
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.ManuList {
+	margin-top: 12px;
+	margin-left: 14px;
+}
+
+.ImgCaption {
+	font-size: 11px;
+	text-align: center;
+	margin-bottom: 2px;
+}
+
+.tbl-border {
+	background-position: top;
+	border-color: black;
+	border-style: solid;
+	border-width: 2px;
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 2px;
+	background-color: White;
+}
+
+.sortable {
+	background-position: top;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	background-color: White;
+}
+
+table.sortable a.sortheader {
+	background-color: black;
+	border-width: 1px;
+	color: white;
+	font-size: 9pt;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+   display: block;
+}
+
+table.sortable span.sortarrow {
+	color: White;
+	text-decoration: none;
+}
+
+.tbl-head1 {
+	background-color: black;
+	border-bottom-style: solid;
+	border-width: 1px;
+	color: white;
+	font-size: 9pt;
+	padding: 2px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+
+.tbl-head1 a {
+	color: white;
+	text-decoration: none;
+}
+
+.tbl-head1 a:hover {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+.tbl-head2 {
+	background-color: black;
+	border-bottom-style: solid;
+	border-width: 1px;
+	color: white;
+	font-size: 9pt;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.tbl-head-blank {
+	background-color: #f3f8f8;
+	border-bottom-style: solid;
+	border-width: 0px;
+}
+
+.tbl-row1 {
+	background-color: #FFEB97;
+	border-collapse: separate;
+	border-style: none;
+	border-width: 1px;
+	font-size: 9pt;
+	outline-style: none;
+	outline-width: 1px;
+	padding: 4px;
+	vertical-align: top;
+}
+
+.tbl-row1 a {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+.tbl-row2 {
+	background-color: #FFF5CC;
+	border-collapse: separate;
+	border-style: none;
+	border-width: 1px;
+	font-size: 9pt;
+	outline-style: none;
+	padding: 4px;
+	vertical-align: top;
+}
+
+.tbl-row2 a {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+.acro-note-block {
+	font-size: 8px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: 1px solid #cccccc;
+	padding: 8px;
+	clear: both;
+	height: 32px;
+}
+
+.etext-title {
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.etext-cite {
+	font-size: 13px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+.etext-author {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.etext-edition-block {
+	font-size: 14px;
+	margin-top: 25px;
+	border: 1px solid #cccccc;
+	padding: 8px;
+	clear: both;
+	height: auto;
+}
+
+.etext-desc {
+	font-size: 13px;
+}
+
+.etext-copyright {
+	font-size: 11px;
+}
+
+.article-pagetitle {
+	font-size : 18px;
+	font-weight : bold;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.article-pagetitle-small {
+	font-size : 18px;
+	font-weight : bold;
+}
+
+.article-sectiontitle {
+	font-size : 16px;
+	font-weight : bold;
+	margin-top: 40px;
+}
+
+.article-subtitle {
+	font-size : 14px;
+	font-weight : bold;
+}
+
+.article-author {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 12px;
+}
+
+.article-cite {
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.article-notetext {
+	font-size : 14px;
+}
+
+.article-footnote-number {
+	font-size : 10px;
+}
+
+.article-footnote-text {
+	font-size : 12px;
+}
+
+.article-figure {
+	margin-top: 15px;
+	text-align: center;
+	border: 2px solid #000000;
+}
+
+.article-figure-text {
+	font-size : 11px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.article-beastable-head {
+	background-color: #c0c0c0;
+	width: 25%;
+	font-size: 13px;
+}
+
+.article-beastable {
+	width: 25%;
+	font-size: 13px;
+	border: 1px solid #c0c0c0;
+	padding: 2px;
+}
+
+.article-quote {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size : 13px;
+}
+
+.article-bio {
+	font-size: 12px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
