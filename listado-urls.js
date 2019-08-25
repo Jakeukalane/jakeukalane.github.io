@@ -1,5 +1,7 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/082201-las-patatas-rapaces-de-tairia.php',
+        'http://tuscriaturas.blogia.com/2019/081901-los-agarracocos.php',
         'http://tuscriaturas.blogia.com/2019/081501-las-cucarachas-magnumianas.php',
         'http://tuscriaturas.blogia.com/2019/081201-los-planos-estadistica.php',
         'http://tuscriaturas.blogia.com/2019/080801-las-yeguas-mantis-de-lo-profundo.php',
