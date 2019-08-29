@@ -1,5 +1,7 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/082901-las-aventuras-de-tehilor-i-recordando-la-solucion.php',
+        'http://tuscriaturas.blogia.com/2019/082601-los-magnumianos.php',
         'http://tuscriaturas.blogia.com/2019/082201-las-patatas-rapaces-de-tairia.php',
         'http://tuscriaturas.blogia.com/2019/081901-los-agarracocos.php',
         'http://tuscriaturas.blogia.com/2019/081501-las-cucarachas-magnumianas.php',
