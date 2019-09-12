@@ -1,5 +1,6 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/091201-los-suniopteros.php',
         'http://tuscriaturas.blogia.com/2019/090901-las-aventuras-de-tehilor-ii-la-apoteosis-de-tehilor-y-el-nacimiento-de-tahi-lorr.php',
         'http://tuscriaturas.blogia.com/2019/090501-los-planos-del-color.php',
         'http://tuscriaturas.blogia.com/2019/090201-las-ballenas-voladoras-de-takansivlata.php',
