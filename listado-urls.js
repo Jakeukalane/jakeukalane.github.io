@@ -1,5 +1,8 @@
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/092301-el-camino-de-la-no-afectacion.php',
+        'http://tuscriaturas.blogia.com/2019/091901-los-thsom.php',
+        'http://tuscriaturas.blogia.com/2019/091601-la-raza-estelar-confusa.php',
         'http://tuscriaturas.blogia.com/2019/091201-los-suniopteros.php',
         'http://tuscriaturas.blogia.com/2019/090901-las-aventuras-de-tehilor-ii-la-apoteosis-de-tehilor-y-el-nacimiento-de-tahi-lorr.php',
         'http://tuscriaturas.blogia.com/2019/090501-los-planos-del-color.php',
