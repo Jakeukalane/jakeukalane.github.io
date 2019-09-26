@@ -1,6 +1,7 @@
-/*v. 1025 artículos - 23 de septiembre de 2019*/
+/*v. 1026 artículos - 24 de septiembre de 2019*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/092601-los-exterminadores-de-nnai.php',
         'http://tuscriaturas.blogia.com/2019/092301-el-camino-de-la-no-afectacion.php',
         'http://tuscriaturas.blogia.com/2019/091901-los-thsom.php',
         'http://tuscriaturas.blogia.com/2019/091601-la-raza-estelar-confusa.php',
