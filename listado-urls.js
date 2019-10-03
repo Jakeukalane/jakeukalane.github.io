@@ -1,6 +1,7 @@
-/*v. 1027 artículos - 02 de octubre de 2019*/
+/*v. 1028 artículos - 03 de octubre de 2019*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/100301-los-errores-planares-i-introduccion-y-fases-de-formacion.php',
         'http://tuscriaturas.blogia.com/2019/093001-los-wooorgh.php',
         'http://tuscriaturas.blogia.com/2019/092601-los-exterminadores-de-nnai.php',
         'http://tuscriaturas.blogia.com/2019/092301-el-camino-de-la-no-afectacion.php',
