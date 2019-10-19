@@ -1,6 +1,9 @@
-/*v. 1029 artículos - 07 de octubre de 2019*/
+/*v. 1032 artículos - 20 de octubre de 2019*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/101701-la-autistopista.php',
+        'http://tuscriaturas.blogia.com/2019/101401-una-mision-de-extraccion-en-el-reino-de-los-suenos.php',
+        'http://tuscriaturas.blogia.com/2019/101001-los-toros-mentales.php',
         'http://tuscriaturas.blogia.com/2019/100701-los-errores-planares-ii-fenomenos-y-estructuras-planares-relacionadas.php',
         'http://tuscriaturas.blogia.com/2019/100301-los-errores-planares-i-introduccion-y-fases-de-formacion.php',
         'http://tuscriaturas.blogia.com/2019/093001-los-wooorgh.php',
