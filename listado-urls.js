@@ -1,6 +1,7 @@
-/*v. 1032 artículos - 20 de octubre de 2019*/
+/*v. 1033 artículos - 21 de octubre de 2019*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/102101-guia-para-la-conquista-de-todos-los-mundos.php',
         'http://tuscriaturas.blogia.com/2019/101701-la-autistopista.php',
         'http://tuscriaturas.blogia.com/2019/101401-una-mision-de-extraccion-en-el-reino-de-los-suenos.php',
         'http://tuscriaturas.blogia.com/2019/101001-los-toros-mentales.php',
