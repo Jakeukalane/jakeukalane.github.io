@@ -1,6 +1,7 @@
 /*v. 1034 artículos - 26 de octubre de 2019*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/102801-los-cronogatos.php',
         'http://tuscriaturas.blogia.com/2019/102401-los-gationes-y-los-caniones.php',
         'http://tuscriaturas.blogia.com/2019/102101-guia-para-la-conquista-de-todos-los-mundos.php',
         'http://tuscriaturas.blogia.com/2019/101701-la-autistopista.php',
