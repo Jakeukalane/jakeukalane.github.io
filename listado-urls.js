@@ -1,4 +1,4 @@
-/*v. 1034 artículos - 26 de octubre de 2019*/
+/*v. 1035 artículos - 28 de octubre de 2019*/
 (function (window){
     var urls = [
         'http://tuscriaturas.blogia.com/2019/102801-los-cronogatos.php',
