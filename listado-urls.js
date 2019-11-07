@@ -1,6 +1,8 @@
-/*v. 1035 artículos - 28 de octubre de 2019*/
+/*v. 1037 artículos - 07 de noviembre de 2019-1*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/110401-los-velas-negras.php',
+        'http://tuscriaturas.blogia.com/2019/103101-los-pseudoxanagu.php',
         'http://tuscriaturas.blogia.com/2019/102801-los-cronogatos.php',
         'http://tuscriaturas.blogia.com/2019/102401-los-gationes-y-los-caniones.php',
         'http://tuscriaturas.blogia.com/2019/102101-guia-para-la-conquista-de-todos-los-mundos.php',
