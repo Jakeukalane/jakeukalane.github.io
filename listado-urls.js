@@ -1,6 +1,9 @@
-/*v. 1037 artículos - 07 de noviembre de 2019-1*/
+/*v. 1040 artículos - 16 de noviembre de 2019-1*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2019/111401-los-fenix-caleidoscopicos.php',
+        'http://tuscriaturas.blogia.com/2019/111101-los-gu-diao.php',
+        'http://tuscriaturas.blogia.com/2019/110701-el-mundo-devorador.php',
         'http://tuscriaturas.blogia.com/2019/110401-los-velas-negras.php',
         'http://tuscriaturas.blogia.com/2019/103101-los-pseudoxanagu.php',
         'http://tuscriaturas.blogia.com/2019/102801-los-cronogatos.php',
