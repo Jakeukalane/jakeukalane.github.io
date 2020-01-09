@@ -1,6 +1,20 @@
-/*v. 1040 artículos - 16 de noviembre de 2019-1*/
+/*v. 1054 artículos - 09 de enero de 2020*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2020/010901-el-rector-de-los-destinos.php',
+        'http://tuscriaturas.blogia.com/2019/123001-los-mercaderes-del-espacio-interplanar.php',
+        'http://tuscriaturas.blogia.com/2019/122601-los-almirantes-del-espacio-interplanar.php',
+        'http://tuscriaturas.blogia.com/2019/122301-la-hierba.php',
+        'http://tuscriaturas.blogia.com/2019/121901-los-vahhowo-fractales.php',
+        'http://tuscriaturas.blogia.com/2019/121601-los-hellip.php',
+        'http://tuscriaturas.blogia.com/2019/121201-naves-espaciales-dussianas-primigenias.php',
+        'http://tuscriaturas.blogia.com/2019/120901-los-brujos-de-thrah.php',
+        'http://tuscriaturas.blogia.com/2019/120501-los-trompistas-de-los-mil-soles.php',
+        'http://tuscriaturas.blogia.com/2019/120201-los-zancudos-de-nawu.php',
+        'http://tuscriaturas.blogia.com/2019/112801-los-temhgur.php',
+        'http://tuscriaturas.blogia.com/2019/112501-el-planeta-nurpissa.php',
+        'http://tuscriaturas.blogia.com/2019/112101-los-senores-de-los-asteroides.php',
+        'http://tuscriaturas.blogia.com/2019/111801-los-virus-interplanares.php',
         'http://tuscriaturas.blogia.com/2019/111401-los-fenix-caleidoscopicos.php',
         'http://tuscriaturas.blogia.com/2019/111101-los-gu-diao.php',
         'http://tuscriaturas.blogia.com/2019/110701-el-mundo-devorador.php',
