@@ -1,6 +1,7 @@
-/*v. 1054 artículos - 09 de enero de 2020*/
+/*v. 1055 artículos - 11 de febrero de 2020*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2020/011301-la-universidad-de-acawsthew.php',
         'http://tuscriaturas.blogia.com/2020/010901-el-rector-de-los-destinos.php',
         'http://tuscriaturas.blogia.com/2019/123001-los-mercaderes-del-espacio-interplanar.php',
         'http://tuscriaturas.blogia.com/2019/122601-los-almirantes-del-espacio-interplanar.php',
