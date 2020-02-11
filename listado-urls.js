@@ -1,6 +1,14 @@
-/*v. 1055 artículos - 11 de febrero de 2020*/
+/*v. 1063 artículos - 11 de febrero de 2020*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2020/021001-los-planos-ksowk.php',
+        'http://tuscriaturas.blogia.com/2020/020601-los-vahho-oscuros.php',
+        'http://tuscriaturas.blogia.com/2020/020301-los-mamuts-teletransportistas.php',
+        'http://tuscriaturas.blogia.com/2020/013001-los-deslizadores-del-mar-de-sal-de-xwui.php',
+        'http://tuscriaturas.blogia.com/2020/012701-los-hollenheyrn.php',
+        'http://tuscriaturas.blogia.com/2020/012301-los-pajaros-del-rio-mundo.php',
+        'http://tuscriaturas.blogia.com/2020/012001-los-reflexivos-del-tiempo.php',
+        'http://tuscriaturas.blogia.com/2020/011601-los-vajkhe.php',
         'http://tuscriaturas.blogia.com/2020/011301-la-universidad-de-acawsthew.php',
         'http://tuscriaturas.blogia.com/2020/010901-el-rector-de-los-destinos.php',
         'http://tuscriaturas.blogia.com/2019/123001-los-mercaderes-del-espacio-interplanar.php',
