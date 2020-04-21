@@ -1,28 +1,47 @@
-/*v. 1063 artículos - 11 de febrero de 2020*/
+/*v. 1082 artículos - 21 de abril de 2020*/
 (function (window){
     var urls = [
+        'http://tuscriaturas.blogia.com/2020/042001-las-quimeras-tricefalas.php',
+        'http://tuscriaturas.blogia.com/2020/041901-comunicado.php',
+        'http://tuscriaturas.blogia.com/2020/041301-los-kraken-espaciales.php',
+<!--        'http://tuscriaturas.blogia.com/2020/040901-la-profundidad-planar.php',-->
+<!--      'http://tuscriaturas.blogia.com/2020/040601-los-caballeros-del-rostro-vacio.php',-->
+<!--        '',-->
+        'http://tuscriaturas.blogia.com/2020/033001-los-psoiler.php',
+<!--        '',-->
+        'http://tuscriaturas.blogia.com/2020/032301-el-planeta-n-viiuldhyttan.php',
+        'http://tuscriaturas.blogia.com/2020/031601-la-metasfera-khur.php',
+        'http://tuscriaturas.blogia.com/2020/031201-el-efecto-keuhal.php',
+        'http://tuscriaturas.blogia.com/2020/030901-los-afterarboles.php',
+<!--        'http://tuscriaturas.blogia.com/2020/030501-los-liihwal-tyyuher.php',-->
+        'http://tuscriaturas.blogia.com/2020/030201-el-mundo-anillo-clon.php',
+<!--        'http://tuscriaturas.blogia.com/2020/022701-los-qusvermus-de-las-marismas.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/022401-los-mesjda-arboricolas.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/022001-los-alces-dobles.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/021701-los-universos-de-eleccion.php',-->
+<!--       'http://tuscriaturas.blogia.com/2020/021301-los-medusas.php',-->
         'http://tuscriaturas.blogia.com/2020/021001-los-planos-ksowk.php',
-        'http://tuscriaturas.blogia.com/2020/020601-los-vahho-oscuros.php',
-        'http://tuscriaturas.blogia.com/2020/020301-los-mamuts-teletransportistas.php',
-        'http://tuscriaturas.blogia.com/2020/013001-los-deslizadores-del-mar-de-sal-de-xwui.php',
-        'http://tuscriaturas.blogia.com/2020/012701-los-hollenheyrn.php',
-        'http://tuscriaturas.blogia.com/2020/012301-los-pajaros-del-rio-mundo.php',
-        'http://tuscriaturas.blogia.com/2020/012001-los-reflexivos-del-tiempo.php',
-        'http://tuscriaturas.blogia.com/2020/011601-los-vajkhe.php',
-        'http://tuscriaturas.blogia.com/2020/011301-la-universidad-de-acawsthew.php',
+<!--        'http://tuscriaturas.blogia.com/2020/020601-los-vahho-oscuros.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/020301-los-mamuts-teletransportistas.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/013001-los-deslizadores-del-mar-de-sal-de-xwui.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/012701-los-hollenheyrn.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/012301-los-pajaros-del-rio-mundo.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/012001-los-reflexivos-del-tiempo.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/011601-los-vajkhe.php',-->
+<!--        'http://tuscriaturas.blogia.com/2020/011301-la-universidad-de-acawsthew.php',-->
         'http://tuscriaturas.blogia.com/2020/010901-el-rector-de-los-destinos.php',
-        'http://tuscriaturas.blogia.com/2019/123001-los-mercaderes-del-espacio-interplanar.php',
-        'http://tuscriaturas.blogia.com/2019/122601-los-almirantes-del-espacio-interplanar.php',
-        'http://tuscriaturas.blogia.com/2019/122301-la-hierba.php',
-        'http://tuscriaturas.blogia.com/2019/121901-los-vahhowo-fractales.php',
-        'http://tuscriaturas.blogia.com/2019/121601-los-hellip.php',
-        'http://tuscriaturas.blogia.com/2019/121201-naves-espaciales-dussianas-primigenias.php',
-        'http://tuscriaturas.blogia.com/2019/120901-los-brujos-de-thrah.php',
-        'http://tuscriaturas.blogia.com/2019/120501-los-trompistas-de-los-mil-soles.php',
-        'http://tuscriaturas.blogia.com/2019/120201-los-zancudos-de-nawu.php',
-        'http://tuscriaturas.blogia.com/2019/112801-los-temhgur.php',
-        'http://tuscriaturas.blogia.com/2019/112501-el-planeta-nurpissa.php',
-        'http://tuscriaturas.blogia.com/2019/112101-los-senores-de-los-asteroides.php',
+<!--        'http://tuscriaturas.blogia.com/2019/123001-los-mercaderes-del-espacio-interplanar.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/122601-los-almirantes-del-espacio-interplanar.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/122301-la-hierba.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/121901-los-vahhowo-fractales.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/121601-los-hellip.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/121201-naves-espaciales-dussianas-primigenias.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/120901-los-brujos-de-thrah.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/120501-los-trompistas-de-los-mil-soles.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/120201-los-zancudos-de-nawu.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/112801-los-temhgur.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/112501-el-planeta-nurpissa.php',-->
+<!--        'http://tuscriaturas.blogia.com/2019/112101-los-senores-de-los-asteroides.php',-->
         'http://tuscriaturas.blogia.com/2019/111801-los-virus-interplanares.php',
         'http://tuscriaturas.blogia.com/2019/111401-los-fenix-caleidoscopicos.php',
         'http://tuscriaturas.blogia.com/2019/111101-los-gu-diao.php',
