@@ -150,7 +150,7 @@
         'http://tuscriaturas.blogia.com/2018/080601-sobre-dragones-y-caballeros.php',
         'http://tuscriaturas.blogia.com/2018/080101-neftis.php',
         'http://tuscriaturas.blogia.com/2018/071901-sxylathonannq.php',
-        'http://tuscriaturas.blogia.com/2018/070701-las-leucrocotta.php',
+        'http://tuscriaturas.blogia.com/2018/070701-la-leucrocotta.php',
         'http://tuscriaturas.blogia.com/2018/062601-aniversario-de-los-14-anos-del-bestiario-del-hypogripho-dorado.php',
         'http://tuscriaturas.blogia.com/2018/061101-los-dragones-chinos-confusos.php',
         'http://tuscriaturas.blogia.com/2018/061001-la-lluvia-de-sangre-y-el-mago-oscuro.php',
